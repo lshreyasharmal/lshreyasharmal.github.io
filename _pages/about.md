@@ -14,4 +14,4 @@ At Hopkins, I've primarily worked on Natural Language Processing, Machine Learni
 
 Prior to my Masters, I worked at [MakeMyTrip](https://www.makemytrip.com/about-us.html), India's top travel e-commerce site, as a Senior Software Developer, where I developed microservices, APIs, and scripts to improve and automate data processes, using Spring-Boot and Django. Over 3 years, I moved up from a Software Developer to a Senior position.
 
-I graduated with a Bachelors in Technology, Computer Science form [IIIT Delhi](https://www.iiitd.ac.in/), India in 2019 where I explored machine learning, computational biology, and software development as part of my resea
+I graduated with a Bachelors in Technology, Computer Science form [IIIT Delhi](https://www.iiitd.ac.in/), India in 2019 where I explored machine learning, computational biology, and software development as part of my research.
