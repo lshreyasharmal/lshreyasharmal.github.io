@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I'm pursuing a Masters in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/) and I'll be graduating in May.
 
-Checkout my [Resume]({{site.url}}/files/Shreya_Sharma_Resume_Full.pdf) and if you think there is a fit for me, feel free to reach out!
+Checkout my [Resume]({{site.url}}/files/Resume_Shreya_Sharma.pdf) and if you think there is a fit for me, feel free to reach out!
 
 At Hopkins, I've primarily worked on Natural Language Processing, Machine Learning, and Software Development projects at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP), [dearYou Health](https://www.dearyouhealth.org/tech-board), and [SNF Agora Institute](https://snfagora.jhu.edu/). My research at CLSP with [Dr Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Dr Daniel Khashabi](https://danielkhashabi.com/) focuses on developing language models that can use and understand scientific facts to reason like humans and can create analogies from text within a given context. More recently, I have ventured into Natural Language Processing for Computational Social Science with [Dr Hahrie Han](https://www.hahriehan.com/) on curating databases on megachurches in United States for social and political analysis. I am also leading the development of a mobile application to connect students to medical professionals for mental health services at dearYou Health under the guidance of [Dr Ali Madooei](https://www.linkedin.com/in/alimadooei/).
 
