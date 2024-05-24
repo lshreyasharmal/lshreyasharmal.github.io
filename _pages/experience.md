@@ -33,7 +33,7 @@ Summarizing my work experience in NLP and Software Development along with the sk
 
 - **Company Name:** [dearYou Health](https://www.dearyouhealth.org/)
 - **Location:** Baltimore, MD, United States
-- **Duration:** Januray 2024 - Present
+- **Duration:** Januray 2024 - May 2024
 - **Description:**
   - Led the full-stack development of a mobile application that connects students to verified mental health professionals where calls can be scheduled and events related to mental well being on campus can be tracked for the benefit of mental health of students.
   - Designed and developed the database on Firebase and the mobile application using React Native (Expo) and tutoring a team of 5 on the frameworks.
