@@ -19,12 +19,19 @@ Summarizing my work experience in NLP and Software Development along with the sk
 ## Work Experience
 
 ---
+### Software Developer 2
 
+- **Company Name:** Oracle (https://oracle.com/)
+- **Location:** Austin, TX, United States
+- **Duration:** July 2024 - Present
+- **Description:**
+  - Part of the Observability and Logging team.
+    
 ### Graduate Research Assisstant (NLP and Computational Social Science)
 
 - **Company Name:** [SNF Agora Institute, Johns Hopkins University](https://snfagora.jhu.edu/)
 - **Location:** Baltimore, MD, United States
-- **Duration:** March 2024 - Present
+- **Duration:** March 2024 - June 2024
 - **Description:**
   - Extracted and transcribed sermons from megachurch video recordings using speech to text methods to create a novel publicly available dataset for in-depth analysis for researchers.
   - Applied NLP techniques, such as sentiment analysis, topic modelling, and pattern recognition, to interpret social, cultural, and theological trends within megachurch discourse.
