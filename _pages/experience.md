@@ -21,7 +21,7 @@ Summarizing my work experience in NLP and Software Development along with the sk
 ---
 ### Software Developer 2
 
-- **Company Name:** Oracle (https://oracle.com/)
+- **Company Name:** [Oracle](https://oracle.com/)
 - **Location:** Austin, TX, United States
 - **Duration:** July 2024 - Present
 - **Description:**
