@@ -10,7 +10,7 @@ Hi, I am a Software Developer at Oracle! Earlier this year, I got my Masters deg
 
 Checkout my [Resume]({{site.url}}/files/Resume_Shreya_Sharma.pdf) which might not be updated but if you think there is a fit, feel free to connect!
 
-#About Me
+## About Me
 
 At Hopkins, I primarily worked on Natural Language Processing, Machine Learning, and Software Development at institutes like [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP), [dearYou Health](https://www.dearyouhealth.org/tech-board), and [SNF Agora Institute](https://snfagora.jhu.edu/). My research at CLSP with [Dr Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Dr Daniel Khashabi](https://danielkhashabi.com/) focused on making language models use and understand scientific facts to reason like humans and create analogies from text within a given context. Apart from that, I led the development team at dearYou Health to create a mobile app that connects students with mental health professionals under the guidance of [Dr Ali Madooei](https://www.linkedin.com/in/alimadooei/). More recently, I have ventured into Natural Language Processing for Computational Social Science with [Dr Hahrie Han](https://www.hahriehan.com/) for social and political analysis on megachurch sermons in the US.
 
