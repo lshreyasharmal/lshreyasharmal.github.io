@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I am a Software Developer at Oracle! Earlier this year, I got my Masters degree in Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu/).
 
-Checkout my [Resume]({{site.url}}/files/Resume_Shreya_Sharma.pdf) which might not be updated but if you think there is a fit, feel free to connect!
+Checkout my [Resume]({{site.url}}/files/Resume_Shreya_Sharma.pdf) and if you think there is a fit, feel free to connect!
 
 ## About Me
 
